@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Reto2Application<reto2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "co.usa.reto2.Reto2Application",
+            "projectName": "reto2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Reto2Application<reto2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "co.usa.reto3.Reto2Application",
+            "projectName": "reto2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Reto3Application<reto2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "co.usa.reto3.Reto3Application",
+            "projectName": "reto2",
+            "args": ""
+        }
+    ]
+}
